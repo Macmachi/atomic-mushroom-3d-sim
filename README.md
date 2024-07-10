@@ -3,6 +3,8 @@
 ## Description
 Ce projet est une simulation interactive en 3D de l'évolution d'un champignon atomique, créée pour tester les capacités du modèle de langage Claude 3.5 Sonnet d'Anthropic. 🤖🧠 L'application web utilise Three.js pour le rendu 3D et offre une visualisation réaliste des différentes phases de l'explosion nucléaire, de l'éclair initial à la formation du nuage caractéristique.
 
+You can try it here: https://macmachi.github.io/atomic-mushroom-3d-sim/
+
 ## Caractéristiques
 - 🎨 Rendu 3D en temps réel d'un champignon atomique
 - 🎬 Animation de l'évolution de l'explosion
